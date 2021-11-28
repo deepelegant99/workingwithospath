@@ -1,0 +1,6 @@
+[{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ",
+"speed":3194,
+"times":{"user":32247359,"nice":0,
+"sys":33198921,"idle":716738968,
+"irq":3476359}},
+{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":23154656,"nice":0,"sys":12066437,"idle":746964171,"irq":460250}},{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":53064375,"nice":0,"sys":22357265,"idle":706763609,"irq":250609}},{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":25915484,"nice":0,"sys":11643031,"idle":744626781,"irq":192296}},{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":37167343,"nice":0,"sys":23172546,"idle":721845390,"irq":289578}},{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":23475890,"nice":0,"sys":13997656,"idle":744711671,"irq":229343}},{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":32141843,"nice":0,"sys":20253546,"idle":729789859,"irq":423093}},{"model":"AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics ","speed":3194,"times":{"user":32609015,"nice":0,"sys":15853734,"idle":733722515,"irq":1028703}}]

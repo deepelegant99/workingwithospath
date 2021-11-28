@@ -1,0 +1,1 @@
+{"root":"C:\\","dir":"C:\\Users\\phill\\Documents\\GitHub\\Tutorials\\Backend\\traversy_node_2019\\workingwithospath","base":"index.js","ext":".js","name":"index"}
