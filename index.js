@@ -26,7 +26,7 @@ fs.mkdir(path.join(__dirname, 'Info'), err => {
       "system uptime": os.uptime(),
       "Free memory percentage": (os.freemem() / os.totalmem()) * 100,
     };
-
+//
     fs.writeFile(path.join(__dirname, "Info", "system_info.txt"),JSON.stringify(system_data), err=>{
         if(err){
             throw err
@@ -45,14 +45,14 @@ fs.mkdir(path.join(__dirname, 'Info'), err => {
     })
 })
 //
-console.log(os.platform())
-console.log(os.arch())
-//console.log(os.cpus())
-console.log(os.freemem())
-console.log(os.totalmem())
-console.log(os.freemem() / os.totalmem() *100); //Percentage of Free memory out of total memory
-console.log(os.homedir())
-console.log(os.uptime())
+// console.log(os.platform())
+// console.log(os.arch())
+// //console.log(os.cpus())
+// console.log(os.freemem())
+// console.log(os.totalmem())
+// console.log(os.freemem() / os.totalmem() *100); //Percentage of Free memory out of total memory
+// console.log(os.homedir())
+// console.log(os.uptime())
 
 // fs.readFile(path.join(__dirname, 'Path Info', 'info.txt'), 'utf8', (err, content)=>{
 //     if(err){

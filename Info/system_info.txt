@@ -1,1 +1,1 @@
-{"platform":"win32","architect":"x64","free Memory":1377116160,"total Memory":7446151168,"home Dir":"C:\\Users\\phill","system uptime":1527950,"Free memory percentage":18.49433524688818}
+{"platform":"win32","architect":"x64","free Memory":1291497472,"total Memory":7446151168,"home Dir":"C:\\Users\\phill","system uptime":1528234,"Free memory percentage":17.35824915232234}
